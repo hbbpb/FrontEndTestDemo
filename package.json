@@ -1,0 +1,14 @@
+{
+  "name": "testdemo",
+  "version": "1.0.0",
+  "description": "Front End Test Demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "pbli@thoughtworks.com",
+  "license": "MIT"
+}
