@@ -27,3 +27,6 @@ karma init
 # Do you want Karma to watch all the files and run the tests on change ?
 # no
 
+karma start karma.conf.js
+
+
