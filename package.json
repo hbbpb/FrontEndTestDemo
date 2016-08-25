@@ -16,6 +16,8 @@
     "babel-preset-es2015": "^6.14.0",
     "chai": "^3.5.0",
     "mocha": "^3.0.2",
-    "mochawesome": "^1.5.1"
+    "mochawesome": "^1.5.1",
+    "node-fetch": "^1.6.0",
+    "superagent": "^2.2.0"
   }
 }
