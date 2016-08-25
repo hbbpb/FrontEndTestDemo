@@ -10,5 +10,8 @@
     "test"
   ],
   "author": "pbli@thoughtworks.com",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^3.0.2"
+  }
 }
