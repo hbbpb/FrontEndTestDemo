@@ -12,7 +12,8 @@
   "author": "pbli@thoughtworks.com",
   "license": "MIT",
   "devDependencies": {
+    "chai": "^3.5.0",
     "mocha": "^3.0.2",
-    "chai": "^3.5.0"
+    "mochawesome": "^1.5.1"
   }
 }
