@@ -44,13 +44,6 @@ module.exports = {
             }
         },
 
-        ie: {
-            desiredCapabilities: {
-                browserName: 'internet explorer',
-                javascriptEnabled: true
-            }
-        },
-
         phantom: {
             desiredCapabilities: {
                 browserName: 'phantomjs',
