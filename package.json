@@ -28,6 +28,7 @@
     "karma-safari-launcher": "^1.0.0",
     "mocha": "^3.0.2",
     "mochawesome": "^1.5.1",
+    "nightwatch": "^0.9.8",
     "node-fetch": "^1.6.0",
     "superagent": "^2.2.0"
   }
