@@ -3,3 +3,4 @@ node_modules/
 3.mocha/demo02/mochawesome-reports/
 5.karma/coverage/
 6.nightwatch/results/
+*.log
