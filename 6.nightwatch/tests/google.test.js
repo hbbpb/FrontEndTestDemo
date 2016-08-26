@@ -11,7 +11,7 @@ module.exports = {
             .setValue('input[type=text]', 'nightwatch')
             .waitForElementVisible('input[name=btnK]', 1000)
             .click('input[name=btnK]')
-            .pause(1000)
+            // .pause(1000)
             .assert.containsText('#main', 'Night Watch')
         // .pause(5000)
             .end();

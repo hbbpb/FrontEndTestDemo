@@ -33,7 +33,7 @@ module.exports = {
             desiredCapabilities: {
                 browserName: 'chrome',
                 javascriptEnabled: true,
-                acceptSslCerts: false
+                acceptSslCerts: true
             }
         },
 
