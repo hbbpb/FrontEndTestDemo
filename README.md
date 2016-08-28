@@ -100,4 +100,20 @@
 
 # Demo
 
-- https://github.com/hbbpb/FrontEndTestDemo
+- Github : https://github.com/hbbpb/FrontEndTestDemo
+
+    #### How to use
+    
+    1. Clone this project
+    
+            $ git clone https://github.com/hbbpb/FrontEndTestDemo.git
+
+    2. Go to the project directory
+
+            $ cd FrontEndTestDemo
+
+    3. Install dependencies, please check the package.json file
+
+            $ npm install
+
+    4. Enjoy!

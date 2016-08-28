@@ -2,12 +2,12 @@
   "name": "testdemo",
   "version": "1.0.0",
   "description": "Front End Test Demo",
-  "main": "app.js",
+  "main": "",
   "scripts": {
-    "test": "test"
+    "test": ""
   },
   "keywords": [
-    "test"
+    "Front End Test Demo"
   ],
   "author": "pbli@thoughtworks.com",
   "license": "MIT",
