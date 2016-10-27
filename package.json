@@ -4,7 +4,8 @@
   "description": "Front End Test Demo",
   "main": "",
   "scripts": {
-    "test": ""
+    "test": "",
+    "start": ""
   },
   "keywords": [
     "Front End Test Demo"
