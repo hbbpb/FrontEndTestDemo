@@ -4,3 +4,4 @@ node_modules/
 5.karma/coverage/
 6.nightwatch/results/
 *.log
+.DS_Store
